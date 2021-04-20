@@ -1,0 +1,8 @@
+[1618910879.46125]: function 'wrapper' returned 6
+[1618910880.462411]: function 'wrapper' returned 24
+[1618910881.463552]: function 'wrapper' returned 120
+[1618910882.464768]: function 'wrapper' returned 720
+[1618910883.465915]: function 'wrapper' returned 5040
+[1618910884.467082]: function 'wrapper' returned 40320
+[1618910885.467263]: function 'wrapper' returned 362880
+[1618910886.468437]: function 'wrapper' returned 3628800

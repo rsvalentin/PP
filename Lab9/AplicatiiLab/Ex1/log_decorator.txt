@@ -1,0 +1,8 @@
+[1618910382.409369]: function 'factorial' returned 6
+[1618910383.410619]: function 'factorial' returned 24
+[1618910384.411293]: function 'factorial' returned 120
+[1618910385.412492]: function 'factorial' returned 720
+[1618910386.413683]: function 'factorial' returned 5040
+[1618910387.415194]: function 'factorial' returned 40320
+[1618910388.415654]: function 'factorial' returned 362880
+[1618910389.416847]: function 'factorial' returned 3628800
